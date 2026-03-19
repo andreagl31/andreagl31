@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Andrea, I'm from Spain and I'm Multiplatform Application Development student with experience in modern web and mobile technogies. I love challenges and learning new things, and I would like to improve as a programmer 🌱🤍</p>
+<p align="left">My name is Andrea, I'm from Spain and I'm Multiplatform Application Development student with experience in modern web and mobile technologies. I love challenges and learning new things, and I would like to improve as a programmer 🌱🤍</p>
 
 ###
 
